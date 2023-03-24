@@ -5,10 +5,10 @@ Usage:
 Please provide your github token and rest api to the script as input
 This script can be used as a module. 
 
-You can use below command to retrive user info
+You can use this command to retrive user info
  ./github-script-demo.sh $password /user
  
- You can use below command to retrieve repo info
+ You can use this command to retrieve repo info
   ./github-script-demo.sh $password /user/repos
 
 Here $password is the github token password.
